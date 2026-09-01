@@ -13,14 +13,6 @@ A simple Python desktop application built with **Tkinter** that displays the cur
 * Color-coded background based on air quality level
 * Simple and lightweight Tkinter GUI
 
-## Screenshot
-
-Add a screenshot of your application here:
-
-```markdown
-![Weather App Screenshot](screenshot.png)
-```
-
 ## Technologies Used
 
 * Python 3
@@ -102,11 +94,3 @@ import os
 
 API_KEY = os.getenv("AIRNOW_API_KEY")
 ```
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
-
-Created with Python and Tkinter as a desktop GUI learning project.
